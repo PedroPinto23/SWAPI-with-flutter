@@ -7,7 +7,7 @@ https://unsplash.com/@eric_ding
 https://unsplash.com/@nathananderson
 https://unsplash.com/@danieltuttle
 
-API used in this project: swapi.co
+API used in this project: http://swapi.co
 
 ### Mockup made by https://www.linkedin.com/in/beatriz-dias-borges-4b59a6104/
 
